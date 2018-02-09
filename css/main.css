@@ -1,0 +1,13 @@
+/****BASE STYLES****/
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+#header{
+  height:375px;
+}
+#welcome{
+  height:150px;
+}
+#about{
+  height:200px;
+}
